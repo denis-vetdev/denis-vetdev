@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Denis Vet Dev 😁
 
+Desenvolvedor front-end
+
  <div>
    <a href="https://github.com/denis-vetdev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denis-vetdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
