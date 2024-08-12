@@ -26,6 +26,7 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/denis-vetdev/denis-vetdev/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://raw.githubusercontent.com/denis-vetdev/denis-vetdev/output/snake.svg" alt="Snake animation" />
  
 </div>
+
